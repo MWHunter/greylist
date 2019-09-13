@@ -1,0 +1,9 @@
+name: Greylist
+main: cwok.main.Greylist
+version: 1.0
+api-version: 1.13
+commands:
+  apply:
+    description: Apply for the whitelist
+  greylist:
+    description: Main command for the custom greylist plugin
